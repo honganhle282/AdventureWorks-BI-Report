@@ -6,6 +6,7 @@ This repository contains a Power BI report analyzing the AdventureWorks dataset,
 
 The AdventureWorks Sales Analysis Report explores multiple facets of business performance for AdventureWorks, a sample retail company specializing in bicycles and accessories. The analysis focuses on:
 - **Sales Performance**: Revenue trends, top-selling products, and regional sales distribution.
+  
 - **Customer Insights**: purchasing patterns.
 - **Product Analysis**: Product categories, inventory levels, and profitability.
 
