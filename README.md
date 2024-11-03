@@ -6,21 +6,38 @@ This repository contains a Power BI report analyzing the AdventureWorks dataset,
 
 The AdventureWorks Sales Analysis Report explores multiple facets of business performance for AdventureWorks, a sample retail company specializing in bicycles and accessories. The analysis focuses on:
 - **Sales Performance**: Revenue trends, top-selling products, and regional sales distribution.
-  !screenshots/sales_by_time.png
+
+![Sales](screenshots/overview_analysis.png)
+
 - **Customer Insights**: purchasing patterns.
 - **Product Analysis**: Product categories, inventory levels, and profitability.
 
 ## 📈 Key Insights
 
 - **Sales Trends**: Analysis of monthly and yearly sales trends to identify peak seasons and high-demand products.
+- 
+  ![Sales](screenshots/sales_by_time.png)
+  
 - **Customer Segmentation**: Breakdown of customer demographics (age, location, etc.) to understand target audiences.
+- 
+  ![Customers](screenshots/customer_analysis.png)
+  
+  **Customer Detail**
+  
+  ![Customers](screenshots/customer_detail.png)
+  
 - **Product Performance**: Insights into the best-selling product categories and stock levels to optimize inventory.
+- 
+ ![Products](screenshots/category_analysis.png)
 
 ##  Features of the Report
 
 - **Interactive Visuals**: Custom charts and dashboards for an interactive exploration of data.
 - **Drill-Downs**: Clickable categories to drill down into specific details such as product or regional performance.
-- **Drill-through**: Customer Details
+- **Drill-through**: Customer Details from Overview Page
+- 
+ ![Customers](screenshots/customer_detail.png)
+
 - **Filters**: Ability to filter data by date, region, and product type for targeted analysis.
 
 ##  Technologies Used
