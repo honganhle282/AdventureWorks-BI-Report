@@ -15,26 +15,26 @@ The AdventureWorks Sales Analysis Report explores multiple facets of business pe
 - **Customer Segmentation**: Breakdown of customer demographics (age, location, etc.) to understand target audiences.
 - **Product Performance**: Insights into the best-selling product categories and stock levels to optimize inventory.
 
-## 🚀 Features of the Report
+##  Features of the Report
 
 - **Interactive Visuals**: Custom charts and dashboards for an interactive exploration of data.
 - **Drill-Downs**: Clickable categories to drill down into specific details such as product or regional performance.
 - **Drill-through**: Customer Details
 - **Filters**: Ability to filter data by date, region, and product type for targeted analysis.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Power BI Desktop** for data visualization
 - **SQL** for data extraction and transformation
 - **AdventureWorks DW Database** as the data source
 
-## 📂 Project Files
+## Project Files
 
 - **AdventureWorks_Sales_Analysis.pbix**: The main Power BI report file.
 - **README.md**: Project documentation.
 - **Screenshots**: Sample screenshots of the report visuals (optional).
 
-## 📥 How to Use
+## How to Use
 
 1. Clone or download this repository.
 2. Open the `.pbix` file with Power BI Desktop.
