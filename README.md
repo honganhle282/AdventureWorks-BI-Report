@@ -50,7 +50,7 @@ The AdventureWorks Sales Analysis Report explores multiple facets of business pe
 
 - **AdventureWorks_Sales_Analysis.pbix**: The main Power BI report file.
 - **README.md**: Project documentation.
-- **Screenshots**: Sample screenshots of the report visuals (optional).
+- **Screenshots**: Sample screenshots of the report visuals.
 
 ## How to Use
 
